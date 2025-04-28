@@ -30,19 +30,19 @@ Prints do App funcionando
 
 **Tela inicial do aplicativo:**
 
-![Tela Inicial](images/Captura%20de%20tela%202025-04-28%20181906.png)
+![Tela Inicial](images/foto1.png)
 
 ---
 
 **Depois de clicar em "Atualizar":**
 
-![Cotação Atualizada](images/Captura%20de%20tela%202025-04-28%20181912.png)
+![Cotação Atualizada](images/foto2.png)
 
 ---
 
 **Outra atualização:**
 
-![Nova Atualização](images/Captura%20de%20tela%202025-04-28%20181917.png)
+![Nova Atualização](images/foto3.png)
 
 ---
 
