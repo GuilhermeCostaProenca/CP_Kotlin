@@ -55,4 +55,4 @@ Prints do App funcionando
 
 ---
 
-Projeto feito para a disciplina de Android Kotlin Developer. 🚀
+Projeto feito para a disciplina de Android Kotlin Developer.
